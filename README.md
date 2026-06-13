@@ -74,7 +74,7 @@ Building software, intelligent systems, and real-world products.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=130&color=E8E0D4&text=IDEA%20%E2%80%A2%20CODE%20%E2%80%A2%20BUILD%20%E2%80%A2%20DEPLOY%20%E2%80%A2%20IMPACT&fontColor=0A0F2C&fontSize=28&fontAlignY=50&animation=twinkling" />
+<img src="https://github-profile-trophy.vercel.app/?username=8llo10&theme=flat&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
