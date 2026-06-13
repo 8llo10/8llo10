@@ -14,10 +14,6 @@
   Turning ideas into products.
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E0D4C2" width="70%">
-</p>
-
 <br>
 
 <h2 align="center">Tech Stack</h2>
@@ -28,10 +24,10 @@
 
 <br>
 
-<h2 align="center">Activity Graph</h2>
+<h2 align="center">Development Flow</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=8llo10&bg_color=00000000&color=E0D4C2&line=E0D4C2&point=E0D4C2&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=8llo10&bg_color=00000000&color=E0D4C2&line=E0D4C2&point=E0D4C2&hide_border=true&area=true&area_color=E0D4C2" />
 </p>
 
 <br>
@@ -39,12 +35,12 @@
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=8llo10&theme=transparent&hide_border=true&ring=E0D4C2&fire=E0D4C2&currStreakLabel=E0D4C2&sideLabels=E0D4C2&dates=E0D4C2" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=8llo10&show_icons=true&theme=transparent&hide_border=true&title_color=E0D4C2&icon_color=E0D4C2&text_color=E0D4C2" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8llo10&layout=compact&theme=transparent&hide_border=true&title_color=E0D4C2&text_color=E0D4C2" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=8llo10&show_icons=true&theme=transparent&hide_border=true&title_color=E0D4C2&icon_color=E0D4C2&text_color=E0D4C2" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8llo10&layout=compact&theme=transparent&hide_border=true&title_color=E0D4C2&text_color=E0D4C2" />
+  <img src="https://streak-stats.demolab.com?user=8llo10&theme=transparent&hide_border=true&ring=E0D4C2&fire=E0D4C2&currStreakLabel=E0D4C2&sideLabels=E0D4C2&dates=E0D4C2" />
 </p>
 
 <br>
@@ -66,5 +62,5 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0D4C2,100:D8D0C3&height=130&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0D4C2,100:D8D0C3&height=110&section=footer" />
 </p>
