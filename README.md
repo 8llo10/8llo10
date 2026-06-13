@@ -11,13 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=46&pause=800&color=EFE7DE&center=true&vCenter=true&width=1500&height=120&lines=Building+Things+That+Actually+Work;From+Idea+To+Deployment;AI+%7C+Mobile+%7C+Cloud+%7C+IoT;Code.+Build.+Break.+Improve.;Always+Building+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&pause=900&color=EFE7DE&center=true&vCenter=true&width=1400&height=100&lines=Software+Engineer;Full+Stack+Developer;Product+Builder;AI+%7C+Mobile+%7C+Cloud+%7C+IoT;Building+Products+From+Idea+To+Deployment" />
 </p>
 
-<br>
-
 <p align="center">
-Curious mind, builder mindset, and a strong belief that great products start with simple ideas.
+Building software, intelligent systems, and real-world products.
 </p>
 
 <br>
@@ -30,16 +28,6 @@ Curious mind, builder mindset, and a strong belief that great products start wit
 
 <br>
 
-## A Few Things About Me
-
-- I enjoy turning ideas into real products.
-- I like building things end-to-end.
-- Sometimes I spend more time fixing bugs than sleeping.
-- I get excited about AI, mobile apps, cloud systems, and connected devices.
-- I believe the best way to learn is by building.
-
----
-
 ## GitHub Activity
 
 <p align="center">
@@ -50,7 +38,5 @@ Curious mind, builder mindset, and a strong belief that great products start wit
 ---
 
 <p align="center">
-
-<i>"Build it. Break it. Learn from it. Build it better."</i>
-
+<i>Building products with purpose.</i>
 </p>
