@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=871B17&center=true&vCenter=true&width=1200&height=80&lines=Building+Products+From+Idea+To+Deployment;Full+Stack+Development;Mobile+Applications;Artificial+Intelligence+and+Connected+Systems;Turning+Ideas+Into+Real+World+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=EFE7DE&center=true&vCenter=true&width=1200&height=80&lines=Building+Products+From+Idea+To+Deployment;Full+Stack+Development;Mobile+Applications;Artificial+Intelligence+and+Connected+Systems;Turning+Ideas+Into+Real+World+Solutions" />
 </p>
 
 <br>
