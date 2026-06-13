@@ -11,11 +11,27 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:871B17,100:EFE7DE&text=Building%20Products%20With%20Code&fontColor=EFE7DE&fontSize=34&fontAlignY=35&animation=fadeIn&desc=AI%20%E2%80%A2%20Mobile%20%E2%80%A2%20Cloud%20%E2%80%A2%20IoT&descAlignY=58&descSize=18" />
+<img src="https://github-profile-trophy.vercel.app/?username=8llo10&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/output/pacman-contribution-graph.svg" />
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=8llo10&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+<img width="500" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</p>
+
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=default" />
 </p>
 
 <p align="center">
