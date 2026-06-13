@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=8llo10&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
