@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&pause=900&color=EFE7DE&center=true&vCenter=true&width=1400&height=100&lines=Software+Engineer;Full+Stack+Developer;Product+Builder;AI+%7C+Mobile+%7C+Cloud+%7C+IoT;Building+Products+From+Idea+To+Deployment" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </p>
 
 <p align="center">
