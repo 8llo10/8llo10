@@ -81,19 +81,21 @@
   React Native · TypeScript · FastAPI · Supabase · MQTT
 </p>
 
-</td>
-
 <td width="50%" valign="top">
 
-<h3 align="center">IT Help Desk</h3>
+<h3 align="center">وَصْل | WASL</h3>
 
 <p align="center">
-  IT support and asset management system for tracking tickets,
-  devices, priorities, users, and technical issues.
+  <b>IT Help Desk & Asset Management System</b>
 </p>
 
 <p align="center">
-  Full Stack · Database · REST API
+  A centralized IT support platform connecting employees with technical support
+  while linking tickets, devices, and responsible IT personnel in one system.
+</p>
+
+<p align="center">
+  Full Stack · REST API · Database · IT Asset Management
 </p>
 
 </td>
