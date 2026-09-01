@@ -63,34 +63,86 @@
 
 <br>
 
-<h2 align="center">Development Activity</h2>
+<h2 align="center">Featured Projects</h2>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">TNABBAH</h3>
 
 <p align="center">
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=8llo10&bg_color=00000000&color=E0D4C2&line=E0D4C2&point=E0D4C2&hide_border=true&area=true&area_color=E0D4C2"
-  />
+  Smart vehicle diagnostics platform that transforms live vehicle data
+  into clear and actionable insights.
 </p>
+
+<p align="center">
+  React Native · TypeScript · FastAPI · Supabase · MQTT
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">IT Help Desk</h3>
+
+<p align="center">
+  IT support and asset management system for tracking tickets,
+  devices, priorities, users, and technical issues.
+</p>
+
+<p align="center">
+  Full Stack · Database · REST API
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Server Monitoring</h3>
+
+<p align="center">
+  Monitoring platform for tracking server health, resource usage,
+  network services, and infrastructure alerts.
+</p>
+
+<p align="center">
+  Linux · Networking · Monitoring
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Next Project</h3>
+
+<p align="center">
+  Currently building the next product.
+</p>
+
+<p align="center">
+  Coming Soon
+</p>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-<h2 align="center">GitHub Overview</h2>
+<h2 align="center">Currently Exploring</h2>
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=8llo10&show_icons=true&theme=transparent&hide_border=true&title_color=E0D4C2&icon_color=E0D4C2&text_color=E0D4C2"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=8llo10&layout=compact&theme=transparent&hide_border=true&title_color=E0D4C2&text_color=E0D4C2"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=8llo10&theme=transparent&hide_border=true&ring=E0D4C2&fire=E0D4C2&currStreakLabel=E0D4C2&sideLabels=E0D4C2&dates=E0D4C2"
-  />
+  System Design &nbsp;•&nbsp;
+  Backend Architecture &nbsp;•&nbsp;
+  DevOps & Deployment &nbsp;•&nbsp;
+  Scalable Applications
 </p>
 
 <br>
