@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./image.png" width="100%" alt="Ghala AlHashmi Alameer Banner">
 </p>
 
@@ -174,5 +174,52 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:E0D4C2,100:D8D0C3&height=110&section=footer"
     width="100%"
+  />
+</p>
+ -->
+
+
+ <p align="center">
+  <img src="./image.png" width="100%" alt="Ghala AlHashmi Alameer">
+</p>
+
+<h1 align="center">Ghala AlHashmi Alameer</h1>
+
+<p align="center">
+  <b>Software Engineer · Full-Stack Developer</b>
+</p>
+
+<p align="center">
+  Building reliable software systems from architecture and databases
+  to backend, interfaces, integrations, and deployment.
+</p>
+
+<p align="center">
+  Makkah, Saudi Arabia
+</p>
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL"><b>Portfolio ↗</b></a>
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="YOUR_LINKEDIN_URL"><b>LinkedIn ↗</b></a>
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ghalaciishmi80@gmail.com"><b>Email ↗</b></a>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,fastapi,postgres,mysql,supabase,docker,linux,git"
+    alt="Tech Stack"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/8llo10/8llo10/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
   />
 </p>
