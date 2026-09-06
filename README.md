@@ -179,7 +179,7 @@
  -->
 
 
- <p align="center">
+<p align="center">
   <img src="./image.png" width="100%" alt="Ghala AlHashmi Alameer">
 </p>
 
@@ -199,11 +199,17 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL"><b>Portfolio ↗</b></a>
-  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_LINKEDIN_URL"><b>LinkedIn ↗</b></a>
-  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ghalaciishmi80@gmail.com"><b>Email ↗</b></a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <b>Portfolio ↗</b>
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="YOUR_LINKEDIN_URL">
+    <b>LinkedIn ↗</b>
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:ghalaciishmi80@gmail.com">
+    <b>Email ↗</b>
+  </a>
 </p>
 
 <br>
@@ -218,8 +224,18 @@
 <br>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/8llo10/8llo10/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/8llo10/8llo10/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/8llo10/8llo10/output/github-snake.svg"
+    />
+    <img
+      alt="Ghala's GitHub contribution activity"
+      src="https://raw.githubusercontent.com/8llo10/8llo10/output/github-snake.svg"
+    />
+  </picture>
 </p>
