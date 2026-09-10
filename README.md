@@ -1,5 +1,6 @@
 <p align="center">
   <img src="./image.png" width="100%" alt="Ghala AlHashmi Alameer Banner">
+  
 </p>
 
 <h1 align="center">Ghala AlHashmi Alameer</h1>
