@@ -18,11 +18,11 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://8llo10.github.io">
     <img src="https://img.shields.io/badge/Portfolio-E0D4C2?style=for-the-badge&logo=safari&logoColor=17130F" alt="Portfolio">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/ghala-abdullah-alameer-541733373">
+  <a href="https://www.linkedin.com/in/ghala-alameer-541733373?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
     <img src="https://img.shields.io/badge/LinkedIn-D8C8B4?style=for-the-badge&logo=linkedin&logoColor=17130F" alt="LinkedIn">
   </a>
   &nbsp;
