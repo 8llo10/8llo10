@@ -24,7 +24,7 @@
   </a>
   &nbsp;
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-D8C8B4?style=for-the-badge&logo=linkedin&logoColor=17130F" alt="LinkedIn">
+    <img src="[https://img.shields.io/badge/LinkedIn-D8C8B4?style=for-the-badge&logo=linkedin&logoColor=17130F](https://www.linkedin.com/in/ghala-abdullah-alameer-541733373)" alt="LinkedIn">
   </a>
   &nbsp;
   <a href="mailto:ghalaciishmi80@gmail.com">
