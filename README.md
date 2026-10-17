@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./image.png" width="100%" alt="Ghala AlHashmi Alameer Banner">
+  <img src="./image.png" width="100%" alt="Profile banner">
 </p>
-
-<h1 align="center">Ghala AlHashmi Alameer</h1>
 
 <p align="center">
   <b>Software Engineer · Full-Stack Developer</b>
